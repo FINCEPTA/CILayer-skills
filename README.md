@@ -12,7 +12,7 @@ Free, open skills for credit & lending teams, from the team building [CILayer](h
 
 Fund managers send their LPs a letter every quarter. Most lenders don't. Your score cutoff is beta: anyone using the same bureau score at the same threshold gets the same risk/return. Alpha is everything else, & a quarterly letter is how you show it.
 
-Read the full framework & template: **[The Quarterly Credit Letter: Your Score Cutoff Is Beta, Your Portfolio Thesis Is Alpha](https://www.cilayer.ai/resources/quarterly-credit-letter-beta-alpha/)**
+Read the full framework & template: **[The Quarterly Credit Letter: What Moved, Why & What's Next](https://www.cilayer.ai/resources/quarterly-credit-letter-beta-alpha/)**
 
 ## How to use
 

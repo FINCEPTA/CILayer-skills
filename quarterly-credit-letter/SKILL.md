@@ -24,7 +24,7 @@ Find out, from the conversation or by asking:
 - **Audience:** internal team, board, debt partners (warehouse, forward-flow buyer, ABS investors), bank partner, or several. Audience decides what's disclosed & how candid the misses section is. If several, plan an internal master version plus an external cut.
 - **Period:** which quarter, & whether a prior quarter's letter exists (if so, ask for it: last quarter's outlook & triggers get scored in this one).
 - **Book basics:** product(s), segment(s), approximate size, funding structure, states/charter setup. Skip whatever the data already shows.
-- **Length & voice:** default one to two pages, plain professional voice. Match the author's voice if they share prior writing.
+- **Length & voice:** default 1 to 4 pages, plain professional voice. Match the author's voice if they share prior writing.
 
 Use a multiple-choice question tool if available. Otherwise ask in plain text, max ~4 questions per round.
 
@@ -214,4 +214,4 @@ Before handing over the draft, confirm:
 - [ ] Asks are specific (who, what, how much).
 - [ ] The misses section has at least one real entry.
 - [ ] No invented numbers. Open `[DATA NEEDED]`/`[CONFIRM]`/`[VERIFY]` items are listed after the draft.
-- [ ] Length fits the audience (aim for 1 to 2 pages plus appendix).
+- [ ] Length fits the audience (aim for 1 to 4 pages plus appendix).
